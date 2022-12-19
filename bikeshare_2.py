@@ -10,6 +10,8 @@ CITY_DATA = { 'chicago': 'chicago.csv',
 def get_name(name):
     return name 
 get_name("manaralbogami")
+def name_course_udacity():
+    print("Programming for DS")
 def get_filters():
     """
     Asks user to specify a city, month, and day to analyze.
