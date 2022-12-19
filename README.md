@@ -18,3 +18,6 @@ use second project for python to push in github
 https://www.simplilearn.com/tutorials/git-tutorial/merge-conflicts-in-git
 
 that link inspired for me 
+
+add information 
+My name is manar , I graduted cs form PNU university
