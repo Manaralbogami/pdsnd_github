@@ -15,5 +15,6 @@ use udacity lesson to understand git command
 use second project for python to push in github
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+https://www.simplilearn.com/tutorials/git-tutorial/merge-conflicts-in-git
 
+that link inspired for me 
