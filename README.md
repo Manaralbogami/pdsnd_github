@@ -21,3 +21,7 @@ that link inspired for me
 
 add information 
 My name is manar , I graduted cs form PNU university
+
+my job working as Data Analyst 
+
+and I have hard working in evening as freelancer 
